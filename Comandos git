@@ -6,7 +6,7 @@ Comando para ver o historico do projeto:
  
  Detalhe: usando "--oneline" no final do comando **git log** mostra o historico de uma forma resumida.
  
- Comando para ver alterações feitas:
+ Comando para ver alteracoes feitas:
 > git status
 
 Comando para criar um commit:
