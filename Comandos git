@@ -1,0 +1,16 @@
+Comando para clonar o projeto em sua maquina local.
+> git clone URL do repositorio
+
+Comando para ver o historico do projeto:
+ > git log
+ 
+ Detalhe: usando "--oneline" no final do comando **git log** mostra o historico de uma forma resumida.
+ 
+ Comando para ver alterações feitas:
+> git status
+
+Comando para criar um commit:
+> git commit
+
+Comando para UP o projeto para nuvem:
+> git push
